@@ -31,26 +31,20 @@ En la siguiente pantalla, tenemos que poner los datos de nuestro agente:
 
 * **Description**: En este campo debe de agregarse la especificacion de lo que realiza tu agente. Este campo es opcional y no es necesaria si el nombre de tu agente explica por sí mismo su funcion.
 
+* **Add sample data**: Api.ia provee una serie de ejemplos de datos que puedes agregar
+
 * **Language**: El idioma en el que funciona el agente. Una vez que hayas elegido el idioma no puedes cambiarlo. Para este tutorial utilizaremos inglés. Si quieres saber en cuales idiomas esta disponible Api.ia puedes revisarlo en la tabla de lenguajes que se encuentra en la documentacion de Api.ia.
 
-* **Timezone**: 
+* **Timezone**: La mayoria de las ocasiones esta opción se agrega automáticamente, pero si no, es importante que agregues la zona horaria que estaras utilizando en tu agente.
 
-Zona horaria: Como era de esperar, es el huso horario de su agente. Es probable que ya haya detectado su zona horaria actual.
-También creará automáticamente un proyecto de Google Cloud Platform para su agente, por lo que no necesita hacer nada al respecto; todo está automatizado! Es bueno saber que esto está ocurriendo, sin embargo, si pasas por muchas pruebas y creas muchos agentes, solo sabes que hay una gran cantidad de proyectos de Google Cloud Platform que se están creando y que es posible que quieras limpiar algún día.
+* **Google Project**: En esta opcion puedes seleccionar un proyecto de Google Platform si ya tienes uno creado, de lo contrario Api.ia creara automaticamente un proyecto de Google Cloud Platform que sera utilizado posteriormente.
 
+Una vez llenados estos campos, da clic en el boton de "Save" que se encuentra en la parte superior derecha de la interfaz. 
 
-Timezone: As you’d expect, it’s the timezone for your agent. Chances are it’ll already have detected your current timezone.
-It will also automatically set up a Google Cloud Platform project for your agent, so you don’t need to do anything in this regard; it’s all automated! It’s good to know this is happening, though, so if you go through a lot of testing and creating many agents, just know there are a lot of Google Cloud Platform projects being created which you might want to clean up some day.
+## La consola de prueba
 
+Una vez que tengas tu agente creado, puedes empezar a probarlo en la consola que se encuentra del lado derecho. Puedes realizar consultas(queries) y enviarlas a tu agente, el agente te regresara el resultado de acuerdo a la informacion tenga disponible. Ingresa la pregunta: "How are you?" o cualquier otra para que pruebes esta funcionalidad: 
 
-Cuando haya introducido la configuración de su agente, seleccione "Guardar" junto al nombre del agente para guardar todo:
-
-
-
-
-
-
-
-When you have input your agent’s settings, choose “Save” next to the agent’s name to save everything:
+![The test console](https://lh3.googleusercontent.com/ttpNJMAXSWtvwCLBorAQzcpBFk81fng7QVJGt8Z5PKuFjBimtMhZR5d6AVIPyL6wlbXvE3sRF4e3trjMH5GyLaUEsjmRiZ3AVEP6CX7nZELhsmRxywdB94Mhk4ADikFgo0J8SOSYei9WIAq7-ttmYmt-6E6W87liyJdQpxO6bB2l4yG7diW7cmqHwkyuA3jDWIMYsnytwEdhoEFSNH_UqYP48nHsL5a6JQlhP9y4y6hdgSMeL4WqmKhXS0pWDkz4tnB_VGOE9FVSQPykPwfhOJh3Rp-R7WecHN6mWzHT5a3OxJFTVvGA1Cu66tbmFwrWyJS24sSYKzqPeOGXhyiXxlhCTcQLo886BVhThZ8NT4KX21hWomLg4aage1t8aoRHwGwyFwWinl_UdsoLGGD5McwIf31pIem2sw-PVqieCVdGfZUxmLI2oTT3dNvyMnmRUWt6Wo1PQSLOQ-44LhRtZPnIxj7CbIcnib00wqZTqrQ5dncj5PzM7o_74_F4zefXC7Sw2ngFrpQckM996mUB6rc63_edqKA0jQvPoV7G35CVTfbStecuGbRBAQWwrA=w2776-h1358 "The test console")
 
 
