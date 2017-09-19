@@ -59,7 +59,20 @@ Api.ia provee una funcionalidad que nos permite agregarle un pequeño toque de i
 
 ![Small talk](https://lh3.googleusercontent.com/9t5YmUv5Wv4YX0p_uDqQC_np76wEMbCeQw2yyvlA7bfxoM4_zwbihlr-By2PZhFacYlLyQ4SZEK4rhMzzPq15kXDcQzyXpUZlvdB6siDhVnKdHQvY4znLwH-3hnTGniGHExzOFET7_yoDQ5tuwuRSEpmX6_7EUUZ9O-HsFMij4bJhXhA7w6h2-k-akO28hPMdb61YMzcQbv9irTX5sW0RrWHsDF-eygLfxQf_JO9ELItowY9npcVT0hugxBS4WHrzc-qvtCvkNA2afBwCcNGCghVBHKlVlRoQ-cc-M8G536SpOc3ipqwx5ACjMYCdiHBJtjI5kR6GPN62TV_erKfSHGChwe6wOjEJnOWJ10CRYe6DJ8Rwvha29F3rFVrAVwmqpgieaVALckUj8gMDdzd1JGNvxBDD3ULZNEKpaViLIA1Hemf8tOGdppuQwsEPrs3yheKZyPXwNsGFQNRO1t0yfpTzp-uplMYns_WVQKso01t3PVD7TLOqOLlrF0uPN47G0lE9G3fMG8LU-ZB0XFtskvIPz5bEDnGlWGz0iZyifQthuWDSmorr5iKu0Gc6Q=w2734-h1312 "Small Talk")
 
-Despues de habilitar esta funcionalidad podras observar que se despliegan una seria de categorías con frases comunes en "Small Talk". Encuentra la seccion que dice "Hello/Goodbye" y dale clic para expandirla. Agrega diferentes respuestas y despues da clic en el botón "Save" que se encuentra en la parte superior para guardar tus respuestas. Cada vez que añades frases, la cifra del porcentaje que se encuentra a lado de cada categoría ira aumentando para mostrar qe tanto has personalizado tu chatbot:
+Después de habilitar esta funcionalidad podras observar que se despliegan una seria de categorías con frases comunes en "Small Talk". Encuentra la seccion que dice "Hello/Goodbye" y dale clic para expandirla. Agrega diferentes respuestas y despues haz clic en el botón "Save" que se encuentra en la parte superior para guardar tus respuestas. Cada vez que añades frases, la cifra del porcentaje que se encuentra a lado de cada categoría irá aumentando para mostrar que tanto has personalizado tu chatbot:
 
 ![Small talk personalization](https://lh3.googleusercontent.com/5Nlu5DSv5wTEIyeCjLm6p7kLThtMybyHBQ87dQs---eSLHzupfsr2Wznc_al09uaJspy-CTuqtnEtDSA3SJp0U7PHC1ptLKQYdLLEy5U4QFa1F2Y0C3t5Y0pZMU1WmfQBI741ooe0k-rkZ4DXb1yeMDVUDH-s7UWamAg0cpD2eBbvHQxBayO93MJy35r6badJMTuE3TyYRZM9rJIU-o--B-GPuOrOlU9Uv6X2ZMG9Itnoj1vaUv_lSvsX48LRwM7R4XxyAvqAhEjxev6qwv3h2RxzVdnVidRWr1VN5U7xMSTWQHMObTGdxlw6p8OAeiiA7sssgLkbFHeCeYK81Zp0eiOFP3uY5ZgoWJhmIquOvdzAmODbfJxMXY0KnUJYYTr1Ylttf06IDK3HW3DUERIiZuauHCZa_VHZnoEaMeKW_XJRB5KHz90nz3BWTa8jKra1uGYRmVR_hO3Rzuj_VgUKyhdRi-yzp0dnTvyMpc8w5EjAUxsY0WvclCjUFtYRdFz3U8iU9lAkmQRTKwZxqLv9_vbvAB0DA1tqXNgooMZqWNptgS8_nuQ6lxSkChIxA=w2776-h1462 "Small talk personalization")
+
+Si vas ahora a la consola de prueba y le preguntas a tu asistente “How are you?” nuevamente, este te responderá con las diferentes opciones que le agregaste.
+
+![Small talk responses](https://lh3.googleusercontent.com/DkNXxCbifxLNxRABmRLYJZn1zzTnjRocfz3ZGvCxD5eEVZ1ibJCCgslm-JpPG5tOKrtKBcjyfpq9Tgd9zlEl8wFvAjq8qB-4daTsJPk5ZN--bwAJ-SqJLGqDrwAwspREsGJp3KQbv-ekhiV3AB2N1OlUnF_i8ODP6C-3YJxM6eOZmraIKRC97y-VOlOc4Muj3PFBXxjcvRylHEsMrRKhHqFztwL32mZA81pSuJhfsNfAN9vwV9VMNMzoaPpPWo3UBMH6gFpTv0q4mKyX0uQTbJJ_WXkIeQar9JJgDdVNFcqs_haLNSlCkoHIumdEBlT5n5-uROS1VZvePQis2UoY-MjFN431rwdrQfymajpqBJwHwq-13TKpoRePx2-c1LBTq6lEKMHS64NqYgd0x79IFIwDDDp2070r4dQjtY1g2h-LTsZP4iyBwHchPrW28mZiDGoJCtHPYybYZO15a57BzELHgkm-gjNIPXxO9Mpmm7PDMwKvgabCimwealCrmlQr7VHcojvHEsugfnk584GNU2YPpRB2ypTctdRWaht9_pwBGmuZzmV8Y9dCAP1rjQ=w2734-h1312 "Small talk responses")
+
+Si tu agente no esta respondiendo correctamente, comprueba que si hiciste clic en el botón de "Save" ya que los cambios no se guardan automáticamente.
+
+Lo que hará diferente a tu agente de otros es que tenga una personalidad única, en otras palabras, entre mas adaptado y personalizado tu agente podrá responder mejor a sus usuarios. Con Api.ia puedes elegir el tono y la estructura de las respuestas, por ejemplo, si es un chatbot que ama los gatos tendrá que responder cosas relacionadas con los gatos o si es un chatbot de una aerolínea que ayuda a los usuarios este deberá responder cosas relacionadas a la ayuda que se espera que proporcione.
+
+Ahora que tu asistente ya es capaz de responder conversaciones pequeñas podemos empezar a integrarlo con su propia interfaz web. Para ello, necesitamos las "API keys" para poder tener acceso al agente.
+
+
+
 
