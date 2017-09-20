@@ -73,6 +73,18 @@ Lo que hará diferente a tu agente de otros es que tenga una personalidad única
 
 Ahora que tu asistente ya es capaz de responder conversaciones pequeñas podemos empezar a integrarlo con su propia interfaz web. Para ello, necesitamos las "API keys" para poder tener acceso al agente.
 
+## Api.ai API keys
+
+Las "API keys" se encuentran en la página de configuraciones de tu agente, para encontrarlas solo tienes que hacer clic en el ícono que se encuentra a un lado del nombre de tu agente. Por ahora el valor que necesitamos es el de “Client access token”, este es un token único que te permite hacer consultas al servicio de Api.ia. 
+
+![API keys](https://lh3.googleusercontent.com/h9URGTQ0BN_GmDTAK33DW8TAo_OZftheeQp63zCvef4ljcZLl8ZmsUstFK4yK3Pa7TyjXip3wBIwcyEGI42HXFokKXzyl74Yh28BhdtnlzypYcYDdkrpA1KbGY65NLCYkgQhJ5e2Qs0iP_rmaqeb2jU62PZVI8lGpUNKCMzGha4Ih0DazPUDthhtbHhojuFacgcjwFO7KwmcLG3M27K9nq1wMNjG--z2GSf8IFUWh1bXR61cRfF6zf89f3WqaAsoJbLHCzyiKsGxiFtfovZ9n97QbOFlQ1i-apLoDrUM4GGdQlfAOGj5MjidH8ZAi1j3KPuOc6yhkNETAalny_vtQ9p3xX1CmTjYO4tOPgbGbY0t1R4gTKeFGEDvBTLt5GQjNrxn6EBVEYH5OrhK_57fxghsNgV8G3CdAcTJ0Yn7r6u_91SYALwbfqUsvcvkPNHYyY7FxAG1EebNTDfqL4vVpFSnUHvKvoPs-0BytmOSXY4qufXRvLfH98PjNeRa98FvmZ0vgFdSthkndzpMBL0CVoeFjORxudi-TShcoVRxtV3SoIciYfKS-KAbL1QwmA=w2734-h1400 "API keys")
+
+
+
+
+
+
+
 
 
 
