@@ -79,10 +79,11 @@ Las "API keys" se encuentran en la página de configuraciones de tu agente, para
 
 ![API keys](https://lh3.googleusercontent.com/h9URGTQ0BN_GmDTAK33DW8TAo_OZftheeQp63zCvef4ljcZLl8ZmsUstFK4yK3Pa7TyjXip3wBIwcyEGI42HXFokKXzyl74Yh28BhdtnlzypYcYDdkrpA1KbGY65NLCYkgQhJ5e2Qs0iP_rmaqeb2jU62PZVI8lGpUNKCMzGha4Ih0DazPUDthhtbHhojuFacgcjwFO7KwmcLG3M27K9nq1wMNjG--z2GSf8IFUWh1bXR61cRfF6zf89f3WqaAsoJbLHCzyiKsGxiFtfovZ9n97QbOFlQ1i-apLoDrUM4GGdQlfAOGj5MjidH8ZAi1j3KPuOc6yhkNETAalny_vtQ9p3xX1CmTjYO4tOPgbGbY0t1R4gTKeFGEDvBTLt5GQjNrxn6EBVEYH5OrhK_57fxghsNgV8G3CdAcTJ0Yn7r6u_91SYALwbfqUsvcvkPNHYyY7FxAG1EebNTDfqL4vVpFSnUHvKvoPs-0BytmOSXY4qufXRvLfH98PjNeRa98FvmZ0vgFdSthkndzpMBL0CVoeFjORxudi-TShcoVRxtV3SoIciYfKS-KAbL1QwmA=w2734-h1400 "API keys")
 
+## Let's code!
 
+¡Llegó el momento del código! Para empezar puedes descargar el codigo que se encuentra en este repositorio de Github: https://github.com/IsabelPalomar/demos-api-ia/tree/master/01-mi-primer-asistente. Sientanse libre de utilizarlo como base y desarrollar nuevas opciones para su asistente personal, más adelante explicaremos el código paso a paso.
 
-
-
+Si quieres verlo en acción puedes ver al asistente funcionando funcionando aqui:
 
 
 
